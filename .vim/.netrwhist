@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/root/Desktop'
+let g:netrw_dirhist_2='/root/.vim'
+let g:netrw_dirhist_3='/opt/scm/tt'
+let g:netrw_dirhist_4='/usr/local/mysql'
+let g:netrw_dirhist_5='/usr/local/apache/htdocs/pkgForTest/script/script_bak'
+let g:netrw_dirhist_6='/usr/local/apache/htdocs/pkgForShine/test1'
+let g:netrw_dirhist_7='/usr/local/apache/htdocs/pkgForShine/shell/bin'
+let g:netrw_dirhist_8='/usr/local/apache/htdocs/pkgForTest/template'
